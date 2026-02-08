@@ -42,8 +42,8 @@
 
 | Project | Role | Status | Description |
 | :--- | :--- | :--- | :--- |
-| **careerpathAI** | **Creator** | 🚧 Dev | 聚焦 AI 应用简历的项目，帮助求职者利用 AI 优化职业路径。 |
-| **timem** | **Ops Lead** | 🌏 Live | 负责海外市场运营。Exploring the future of memory systems. |
+| **CareerpathAI** | **Creator** | 🚧 Dev | 聚焦 AI 应用简历的项目，帮助求职者利用 AI 更快完成简历。 |
+| **TiMem** | **Ops Lead** | 🌏 Live | 负责海外市场运营。Exploring the future of memory systems. |
 
 ---
 
