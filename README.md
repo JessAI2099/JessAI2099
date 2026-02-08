@@ -37,18 +37,3 @@
 </p>
 
 ---
-
-### 🚀 Current Projects
-
-| Project | Role | Status | Description |
-| :--- | :--- | :--- | :--- |
-| **CareerpathAI** | **Creator** | 🚧 Dev | 聚焦 AI 应用简历的项目，帮助求职者利用 AI 更快完成简历。 |
-| **TiMem** | **Ops Lead** | 🌏 Live | 负责海外市场运营。Exploring the future of memory systems. |
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JessAI2099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="JessAI2099's stats" />
-</div>
