@@ -16,7 +16,7 @@
 我是 **JessAI2099**，一名热衷于探索 AI 边界的全栈工程师。致力于构建下一代 AI 应用，并关注底层 Infra 与记忆（Memory）领域的结合。同时，我也是一名技术内容创作者。
 
 *   🔭 I’m currently building **careerpathAI** - A focused AI-powered resume application.
-*   💼 I’m responsible for Overseas Market Operations at **timem** (Infra/Memory project).
+*   💼 I’m responsible for Overseas Market Operations at **TiMem** (Infra/Memory project).
 *   🌱 I’m deeply learning about **AI Infrastructure** & **Long-term Memory** for LLMs.
 *   💬 Ask me about **Full Stack Dev, AI Agents, and Tech Marketing**.
 
